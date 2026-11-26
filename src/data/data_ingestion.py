@@ -36,7 +36,7 @@ def DataIngestion():
         logging.error(f"Error occured while ingesting data: {e}")
         raise MyException(e, sys)
 
-DataIngestion()
+#DataIngestion()
 
     
 
