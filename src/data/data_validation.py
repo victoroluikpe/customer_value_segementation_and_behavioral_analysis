@@ -57,6 +57,6 @@ def DataValidation(customer_transaction_data):
 
         
 
-customer_transaction_data = DataIngestion()
-DataValidation(customer_transaction_data) 
+#customer_transaction_data = DataIngestion()
+#DataValidation(customer_transaction_data) 
 
